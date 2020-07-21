@@ -4,7 +4,8 @@ Find Friends or future partners with the use of Friend Finder.  Find someone com
 ### Some Technologies Used
 - HTML
 - CSS
-- Node
+- Node JS
+- Javascript
 - Express
 
 ### Deploy on Heroku
